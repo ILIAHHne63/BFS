@@ -1,3 +1,3 @@
 # BFS
 
-Breadth-first search algorithm
+Алгоритм поиска в ширину на C++
